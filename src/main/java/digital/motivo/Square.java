@@ -30,8 +30,4 @@ public class Square {
         this.fixed = true;
     }
 
-    @Override
-    public String toString() {        
-        return "0";
-    }
 }
